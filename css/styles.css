@@ -340,10 +340,7 @@ section{
         margin-bottom: 0;
     }
 
-    .form-textarea{
-        margin-bottom: 24px;
-    }
-
+ 
     .form-button:hover {
          background-color: #D4BFC4;
         color: #7A3145;
