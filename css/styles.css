@@ -340,6 +340,7 @@ section{
     }
 
     .form-textarea{
+        height: 96px;
         margin-bottom: 24px;
     }
 
